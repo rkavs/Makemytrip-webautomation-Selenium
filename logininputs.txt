@@ -1,0 +1,12 @@
+noOfVTests=1
+noOfIVTests=5
+user1=edkali7977@gmail.com
+pass1=apachert
+user2=cmpe297@gmail.com
+pass2=cmpeanything
+user3=anything@gmail.com
+pass3=somethingany
+user4=
+pass4=
+user5=edkali7977@gmail.com
+pass5=apachertr
